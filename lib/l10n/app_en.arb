@@ -1,0 +1,17 @@
+{
+    "language": "Language",
+         "english": "English",
+        "arabic": "Arabic",
+        "news": "News",
+          "categories": "Categorise",
+           "business": "Business",
+                      "entertainment": "Entertainment",
+           "general": "General",
+           "health": "Health",
+           "science": "Science",
+           "sports": "Sports",
+            "technology": "Technology",
+ "viewfullarticals": "View Full Articals",
+        "settings": "Settings"
+
+}

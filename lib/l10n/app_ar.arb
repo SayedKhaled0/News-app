@@ -1,0 +1,18 @@
+{
+"language": "اللغة",
+   "english": "نجليزي",
+  "arabic": "عربي",
+  "news": "اخبار",
+  "categories": "التصنيفات",
+  "business": "استثمار",
+                        "entertainment": "وسائل الترفيه",
+             "general": "اخبار عامه",
+             "health": "الصحه",
+             "science": " اخبار علميه ",
+             "sports": "الرياضة",
+             "viewfullarticals": "مشاهدةالمقالات كاملة",
+              "technology": "تكنولوجيا",
+    "settings": "اعدادات"
+
+
+}
